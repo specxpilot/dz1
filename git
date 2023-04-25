@@ -1,23 +1,4 @@
----Master v2.0.0---
-Ветка Vetka01
-Vetka 01
-master
-
----Vetka01--- v2.0
-
-Vetka02
-
-
-
-
-
------Vetka0001----
----Vetka02--- v2.0
-Vetka02
-<<<<<<< HEAD
-<<<<<<< HEAD
-Vetka3
-=======
->>>>>>> master
-=======
->>>>>>> Vetka01
+123 
+git remote add origin https://github.com/specxpilot/dz1.git
+git branch -M main
+git push -u origin main
